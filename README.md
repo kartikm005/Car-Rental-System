@@ -1,5 +1,5 @@
 🚗 Car Rental System in Java 🚗
-Excited to share my recent project - a simple Car Rental System built using Java! This project aims to provide users with an easy way to rent and return cars, allowing administrators to manage available cars and customer information smoothly.
+
 
 🔍 Project Overview
 The Car Rental System includes these key features:
